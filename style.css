@@ -8,7 +8,7 @@ body {
 }
 
 form {
-    width: 400px;
+    width: 600px;
     background-color: #cc03df;
 
 
@@ -17,8 +17,6 @@ form {
 
     border: 1px solid #6407fa;
     border-radius: 10px;
-
-    text-decoration-color: aliceblue;
 
 
 }
