@@ -9,14 +9,15 @@ body {
 
 form {
     width: 600px;
+    height: 600px;
     background-color: #cc03df;
-
+    color: aliceblue;
 
     padding: 20px;
     margin: 50px auto;
 
     border: 1px solid #6407fa;
-    border-radius: 10px;
+    border-radius: 50px;
 
 
 }
